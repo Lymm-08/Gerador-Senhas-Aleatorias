@@ -34,7 +34,7 @@ python main.py
 ```
 ## 🎞️ Demonstração
 
-![Demonstração do programa](imagens/demo.gif.gif)
+![Demonstração do programa](GeradorSenhasAleatorias/imagens/demo.gif)
 ---
 
 ## 📊 Exemplo de uso (Interface Gráfica)
