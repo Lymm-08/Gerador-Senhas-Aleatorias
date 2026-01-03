@@ -32,7 +32,9 @@ pip install pyperclip
 ```bash
 python main.py
 ```
+## 🎞️ Demonstração
 
+![Demonstração do programa](imagens/demo.gif.gif)
 ---
 
 ## 📊 Exemplo de uso (Interface Gráfica)
